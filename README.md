@@ -27,12 +27,6 @@
 
 ## ⚡ Technologies
 
-### Languages:
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu%20bash&logoColor=4EAA25)
-
 ### Infrastructure:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![k8s](https://img.shields.io/badge/-k8s-007acc?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=007acc)
