@@ -9,8 +9,6 @@
 
 ### My GitHub stats 👁️‍🗨️
 
-[![Andrii Holovin profile views](https://u8views.com/api/v1/github/profiles/369696/views/day-week-month-total-count.svg)](https://u8views.com/github/CheriseCodes)
-
 <a href="https://github.com/CheriseCodes?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CheriseCodes&theme=transparent" />
 </a>
@@ -21,7 +19,7 @@
 ### Connect with me 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/cherise-bryan/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=)](https://www.youtube.com/@CheriseCodes)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=)](https://www.youtube.com/@CodeWithCherise)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=)](https://github.com/CheriseCodes)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&label=)](https://gitlab.com/CheriseCodes)
 
@@ -40,3 +38,5 @@
 ### Databases:
 ![Postgresql Badge](https://img.shields.io/badge/-Postgresql-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+<!--[![Cherise Bryan profile views](https://u8views.com/api/v1/github/profiles/51966982/views/day-week-month-total-count.svg)](https://u8views.com/github/CheriseCodes)-->
