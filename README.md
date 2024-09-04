@@ -3,7 +3,7 @@
 ### I'm a Cloud Engineer from Canada
 
 - 🌱 I'm currently expanding my knowledge of building secure, maintainable, and performant distributed systems using Go, Node.js, and Python
-- 🤝 I’m looking to help with building open source tools that support Kubernetes, the cloud, and blockchain
+- 🤝 I’m looking to help with building open source tools that support the Cloud Native Computing Foundation (CNCF) and blockchain
 - 📝 Check out my blog [https://cherisebryan.com/blog](https://cherisebryan.com/blog)
 - 💬 Ask me about **creating Computer Science education materials, AWS, Kubernetes, Python, Go, and Node.js**
 
